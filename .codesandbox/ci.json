@@ -1,3 +1,4 @@
 {
-  "installCommand": "install-command"
+  "installCommand": "install-command",
+  "buildCommand": false
 }
