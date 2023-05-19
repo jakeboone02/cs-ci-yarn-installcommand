@@ -6,7 +6,6 @@
   "repository": "git@github.com:jakeboone02/cs-ci-yarn-installcommand.git",
   "author": "Jake Boone <jakeboone02@gmail.com>",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "install-command": "./install.sh && yarn install",
     "say": "cowsay 'Hello, World!'"
